@@ -1,0 +1,9 @@
+.comfortable-reading {
+    max-width: 80ch;
+}
+
+.comfortable-reading p,
+{
+    text-align: justify;
+}
+

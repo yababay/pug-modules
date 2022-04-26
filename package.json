@@ -1,0 +1,29 @@
+{
+  "name": "@yababay67/pug-modules",
+  "version": "0.0.1",
+  "description": "Генерация index.html из pug-модулей с учетом настроек и svg-спрайта.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yababay/pug-modules.git"
+  },
+  "keywords": [
+    "pug",
+    "html",
+    "svg"
+  ],
+  "author": "Михаил Беляков",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yababay/pug-modules/issues"
+  },
+  "homepage": "https://github.com/yababay/pug-modules#readme",
+  "dependencies": {
+    "@yababay67/bootstrap-svg-sprite": "^0.0.1",
+    "@yababay67/pug-settings": "^0.0.2",
+    "recursive-copy": "^2.0.14"
+  }
+}
